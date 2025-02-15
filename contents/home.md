@@ -2,7 +2,7 @@
 
 
 [![my](static/assets/img/32green.png)](https://github.com/senli1073)
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![my](https://img.shields.io/badge/my-github-blue?logo=github)](https://github.com/senli1073)
 
 
 [访问百度](https://www.baidu.com "百度首页")
