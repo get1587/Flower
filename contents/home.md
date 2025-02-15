@@ -1,10 +1,17 @@
 
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 [![GitHub](https://img.shields.io/badge/GitHub-senli1073-4078c0?style=for-the-badge&logo=github)](https://github.com/senli1073)
 
+<span style="display: inline-block; margin-right: 15px;">
+    [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+
+</span>
+<span style="display: inline-block;">
+  [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+
+</span>
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
