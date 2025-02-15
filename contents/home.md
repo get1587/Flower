@@ -6,7 +6,7 @@
 
 [访问百度](https://www.baidu.com "百度首页")
 
-![月之暗面科技](https://img.shields.io/badge/GitHub-senli1073-4078c0?style=for-the-badge&logo=github "公司标志")
+![月之暗面科技](https://img.shields.io/badge/GitHub-senli1073-4078c0?style=for-the-badge&logo=github = 300x200"公司标志")
 
 莅临寒舍，倍感温暖如春，已备茶点，请君品茗。
 
